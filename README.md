@@ -1,6 +1,8 @@
 # Material Design Email Signature Generator
 A pretty simple and pretty email signature generator for your office.
 
+![screenshot](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/138f4128666961.55cbb34ab08b9.jpg)
+
 It is using materialize for css and animations:
 http://materializecss.com/
 
